@@ -38,11 +38,10 @@ Debugging cryptic terminal error traces and runtime exceptions often interrupts 
 - LinkedIn: [linkedin.com/in/sayandas-ai](https://www.linkedin.com/in/sayan-das-ds/)
 - GitHub: [@SayanDas404](https://github.com/SayanDas404)
 
-
 ## 🚀 Getting Started Locally
 
 To run this project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SayanDas404/Algorithm-Tester.git](https://github.com/SayanDas404/Algorithm-Tester.git)
+   git clone https://github.com/SayanDas404/Algorithm-Tester.git
