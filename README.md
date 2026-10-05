@@ -32,15 +32,16 @@ Debugging cryptic terminal error traces and runtime exceptions often interrupts 
 
 ---
 
-## 🚀 Getting Started Locally
-
-To run this project on your local machine:
-
 ## 👨‍💻 Author
 
 **Sayan Das**  
 - LinkedIn: [linkedin.com/in/sayandas-ai](https://www.linkedin.com/in/sayan-das-ds/)
 - GitHub: [@SayanDas404](https://github.com/SayanDas404)
+
+
+## 🚀 Getting Started Locally
+
+To run this project on your local machine:
 
 1. **Clone the repository:**
    ```bash
